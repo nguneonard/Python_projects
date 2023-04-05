@@ -1,6 +1,6 @@
 # Investigating Netflix Movies and Guest Stars in The Office
 <p align="center">
-  <img src="https://github.com/nguneonard/SQL_Projects/blob/main/Bike%20Sharing/Bicycle-sharing_systems.jpg"  title="hover text", width="1000" height="600">
+  <img src="https://github.com/nguneonard/Python_projects/blob/main/NETFLIX/netflix.jpg"  title="hover text", width="1000" height="600">
 </p>
 
 Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
