@@ -18,7 +18,8 @@ we analyze the data on the duration of Netflix movies from 2011 to 2020. We crea
 - Jupyter Notebook
 
 ## Files
-notebooks/Investigating Netflix Movies and Guest Stars in The Office.ipynb: The Jupyter Notebook containing the code and visualizations for the project.
+The Jupyter Notebook containing the code and visualizations for the project.: <a href="https://github.com/nguneonard/Python_projects/blob/main/NETFLIX/notebook.py">Netflix Movies and Guest Stars code </a>
+
 CSV file containing the data on Netflix movies: <a href="https://www.kaggle.com/datasets/mayank1101sharma/netflix-datasets?select=netflix_data.csv">Netflix Movies and Guest Stars</a>
 
 
