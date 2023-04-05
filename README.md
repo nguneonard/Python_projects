@@ -1,4 +1,4 @@
-# Python_projects
+# PYTHON PROJECTS
 
 This repository contains my python projects. Here are the different projects and their descriptions.
 
