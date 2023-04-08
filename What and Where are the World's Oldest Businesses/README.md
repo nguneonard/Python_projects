@@ -1,4 +1,4 @@
-# Project: What and Where are the World's Oldest Businesses
+# What and Where are the World's Oldest Businesses
 <p align="center">
   <img src="https://github.com/nguneonard/Python_projects/blob/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/MKn_Staffelter_Hof.jpeg"  title="hover text", width="1000" height="600">
 </p>
