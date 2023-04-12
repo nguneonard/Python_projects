@@ -11,3 +11,8 @@ This project is part of the DataCamp course on "Data Manipulation with Python" a
 This project involves exploring data from BusinessFinancing.co.uk to discover the oldest businesses in the world, their industries, and their founding dates.
 The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses">The oldest business in the world</a>
 
+3. [Android App Market on Google Play](#Android-App-Market-on-Google-Play)
+
+Mobile apps are everywhere and they are easy to create and can be lucrative. Due to these factors, more and more apps are being developed every day. In this project, we will be exploring the Google Play Store data to gain insights into the Android app market.
+The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses">The oldest business in the world</a>
+
