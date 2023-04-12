@@ -1,6 +1,6 @@
 # Android App Market on Google Play
 <p align="center">
-  <img src="https://github.com/nguneonard/Python_projects/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/google%20play%20store.png"  title="hover text", width="1000" height="600">
+  <img src="https://github.com/nguneonard/Python_projects/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/google%20play%20store.png"  title="hover text", width="1000" height="400">
 </p>
 
 
