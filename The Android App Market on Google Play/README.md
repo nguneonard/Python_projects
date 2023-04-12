@@ -10,6 +10,13 @@ Welcome to the Android App Market on Google Play project! In this project, we wi
 ## Project Description
 Mobile apps are everywhere and they are easy to create and can be lucrative. Due to these factors, more and more apps are being developed every day. In this project, we will be exploring the Google Play Store data to gain insights into the Android app market. The data was scraped from the Google Play website and contains all the details of the apps on Google Play along with 100 reviews for each app, most helpful first.
 
+## Data Files
+The data for this project consists of two files:
+
+- ***apps.csv***: This file contains all the details of the apps on Google Play. These features describe an app and include information such as the app's name, category, rating, size, price, and more.
+
+- ***user_reviews.csv***: This file contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine, and tagged with its sentiment score.
+
 ## Project Tasks
 - Google Play Store apps and reviews: We will be loading the Google Play Store data into Python and examining the structure of the data.
  -Data cleaning: We will be cleaning the data to ensure that it is ready for analysis. This includes removing missing values, removing duplicates, and dealing with incorrect data types.
