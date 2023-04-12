@@ -36,3 +36,9 @@ Size and price of an app: We will be examining the size and price of an app to g
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+In conclusion, this project provides a comprehensive analysis of the Android app market on Google Play. By analyzing over ten thousand apps across different categories, we can gain valuable insights into the market's trends, including the most popular app categories, app ratings, app size, app prices, and the popularity of paid vs free apps. Additionally, by performing sentiment analysis on user reviews, we can understand how users perceive different apps in the market.
+
+This project has numerous applications, including helping businesses develop strategies to improve their app's performance, identify potential growth areas, and stay ahead of the competition. It also provides a hands-on experience in using Python and its libraries, including Pandas, NumPy, Matplotlib, Seaborn, and plotly, to analyze and visualize real-world data.
+
+Overall, this project is an excellent opportunity for data analysts to practice their skills and gain valuable insights into one of the most popular mobile app markets.
