@@ -1,4 +1,8 @@
 # Android App Market on Google Play
+<p align="center">
+  <img src="https://github.com/nguneonard/Python_projects/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/google%20play%20store.png"  title="hover text", width="1000" height="600">
+</p>
+
 
 ## Introduction
 Welcome to the Android App Market on Google Play project! In this project, we will be performing a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We will be using Python to load, clean, and visualize the scraped Google Play Store data to gain insights into the Android app market.
