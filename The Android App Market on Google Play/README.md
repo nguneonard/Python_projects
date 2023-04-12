@@ -28,3 +28,11 @@ Size and price of an app: We will be examining the size and price of an app to g
 - Filter out "junk" apps: We will be filtering out "junk" apps to ensure that our analysis is focused on high-quality apps.
 - Popularity of paid apps vs free apps: We will be examining the popularity of paid apps vs free apps to gain insights into which type of app is more popular among users.
 - Sentiment analysis of user reviews: We will be performing sentiment analysis of user reviews to gain insights into how users feel about different apps.
+
+## The technology used in this project includes:
+- Pandas
+- NumPy
+- plotly
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
