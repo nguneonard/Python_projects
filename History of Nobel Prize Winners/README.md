@@ -9,7 +9,8 @@ Welcome to our project, where we explore a century's worth of Nobel Laureates. W
 ## Project Description
 The Nobel Prize is a prestigious award given to scientists and scholars for their outstanding contributions to chemistry, literature, physics, medicine, economics, and peace. The first Nobel Prize was awarded in 1901, and since then, it has become one of the most recognized and coveted awards in the world.
 
-The dataset used in this project is from The Nobel Foundation on Kaggle, which contains a comprehensive list of all the Nobel Laureates from 1901 to the present. We will analyze this data to uncover insights about the characteristics of the prize winners, which country receives the most awards, and if anyone has ever won the prize twice.
+The dataset used in this project is from The Nobel Foundation on Kaggle, which contains a comprehensive list of all the Nobel Laureates from 1901 to the present. We will analyze this data to uncover insights about the characteristics of the prize winners, which country receives the most awards, and if anyone has ever won the prize twice. 
+The dataset of the project is found here: <a href="https://github.com/nguneonard/Python_projects/blob/main/History%20of%20Nobel%20Prize%20Winners/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/datasets/nobel.csv ">Noble_price_winners </a> 
 
 Using Python, we will build a project that provides a specific solution to this problem, with guided tasks and real-time automated code checks. Our goal is to create a captivating visualization of the data that makes it easy to understand and draws people into the fascinating history of the Nobel Prize.
 
@@ -17,6 +18,10 @@ Using Python, we will build a project that provides a specific solution to this 
 To get started, you will need to install Python on your machine. We recommend using the latest version of Python 3, which you can download from the official Python website.
 
 Once you have Python installed, you can clone this repository to your local machine and open the project files in your preferred code editor. From there, you can run the Python scripts and view the results in your web browser.
+
+Check out the notebook here: <a href="https://github.com/nguneonard/Python_projects/blob/main/History%20of%20Nobel%20Prize%20Winners/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb
+ ">A Visual History of Nobel Prize Winners</a> 
+
 
 ## Project Tasks
 1. The most Nobel of Prizes: 
