@@ -1,6 +1,6 @@
 # A Visual History of Nobel Prize Winners
 <p align="center">
-  <img src="https://github.com/nguneonard/SQL_Projects/blob/main/Bike%20Sharing/Bicycle-sharing_systems.jpg"  title="hover text", width="1000" height="600">
+  <img src="https://github.com/nguneonard/Python_projects/blob/main/History%20of%20Nobel%20Prize%20Winners/Nobel_Prize.png"  title="hover text", width="1000" height="600">
 </p>
 
 This project explores a dataset from Kaggle containing over a century's worth of Nobel Laureates. The Nobel Prize is an esteemed scientific award given annually to scholars and scientists in different fields such as chemistry, literature, physics, medicine, economics, and peace.
