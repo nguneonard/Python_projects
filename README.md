@@ -20,7 +20,7 @@ The detail notebook is found here: <a href="https://github.com/nguneonard/Python
 
 Step into the world of Nobel Prize winners with this captivating project. Explore a century's worth of data and discover who won, who got snubbed, and what characteristics the winners share. Uncover the truth about biases, which countries dominate, and who managed to win it twice. Join the journey of unraveling the mysteries of the most prestigious scientific award in the world. check out the project here: <a href="https://github.com/nguneonard/Python_projects/tree/main/History%20of%20Nobel%20Prize%20Winners">Nobel Prize Winners</a>
 
-5. [ Dr. Semmelweis and the Discovery of Handwashing](# Dr. Semmelweis and the Discovery of Handwashing)
+5. [ Dr. Semmelweis and the Discovery of Handwashing](#Discovery-of-Handwashing)
 
 The "Dr. Semmelweis and the Discovery of Handwashing" project explores Dr. Ignaz Semmelweis' groundbreaking discovery in the 19th century. By analyzing historical data, we uncover the impact of handwashing on reducing mortality rates in hospitals. Using Python, Pandas, Matplotlib, and statistical analysis techniques, we compare mortality rates, validate Dr. Semmelweis' findings, and emphasize the significance of proper hand hygiene. Contributions are welcome, and running the provided Jupyter Notebook will reveal the transformative power of handwashing in medicine.
 The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing">discovery-of-handwashing</a>
