@@ -10,9 +10,9 @@ In this project, we will explore the historical data from Dr. Semmelweis' work a
 Dataset
 The dataset used in this project consists of two files:
 
-yearly_deaths_by_clinic.csv: This file contains the annual number of births and deaths from puerperal fever in two clinics - Clinic 1 and Clinic 2 - from the years 1841 to 1849.
+***yearly_deaths_by_clinic.csv***: This file contains the annual number of births and deaths from puerperal fever in two clinics - Clinic 1 and Clinic 2 - from the years 1841 to 1849.
 
-monthly_deaths.csv: This file contains the monthly number of births and deaths from puerperal fever at the Vienna General Hospital's maternity clinic from the years 1821 to 1830.
+***monthly_deaths.csv***: This file contains the monthly number of births and deaths from puerperal fever at the Vienna General Hospital's maternity clinic from the years 1821 to 1830.
 
 # Project Objectives
 The main objectives of this project are as follows:
