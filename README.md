@@ -24,3 +24,12 @@ Step into the world of Nobel Prize winners with this captivating project. Explor
 
 The "Dr. Semmelweis and the Discovery of Handwashing" project explores Dr. Ignaz Semmelweis' groundbreaking discovery in the 19th century. By analyzing historical data, we uncover the impact of handwashing on reducing mortality rates in hospitals. Using Python, Pandas, Matplotlib, and statistical analysis techniques, we compare mortality rates, validate Dr. Semmelweis' findings, and emphasize the significance of proper hand hygiene. Contributions are welcome, and running the provided Jupyter Notebook will reveal the transformative power of handwashing in medicine.
 The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing">discovery-of-handwashing</a>
+
+6. [Predicting Credit Card Approvals](#Credit_card_approval)
+
+Welcome to the Premium Project: Predicting Credit Card Approvals! Build a machine learning model to predict credit card application approval. Commercial banks receive numerous applications that often get rejected due to various reasons, making manual analysis time-consuming and error-prone. In this project, leverage machine learning techniques to automate the process and create an accurate credit card approval predictor. The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/Predicting%20Credit%20Card%20Approvals">Predicting Credit Card Approvals</a>
+
+
+
+
+
