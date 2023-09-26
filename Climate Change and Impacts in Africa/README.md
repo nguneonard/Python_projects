@@ -1,7 +1,7 @@
 # Climate Change and Impacts in Africa
 
 <p align="center">
-  <img src="https://github.com/nguneonard/Python_projects/blob/main/Climate%20Change%20and%20Impacts%20in%20Africa/climate%20change/climate.jpg/climate.jpg"  title="hover text", width="700" height="600">
+  <img src="https://github.com/nguneonard/Python_projects/blob/main/Climate%20Change%20and%20Impacts%20in%20Africa/climate%20change/climate.jpg"  title="hover text", width="700" height="600">
 </p>
 
 According to the <a href="https://app.datacamp.com/workspace/external-link?url=https%3A%2F%2Fwww.un.org%2Fen%2Fclimatechange%2Fwhat-is-climate-change">United Nations</a>, Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun’s activity or large volcanic eruptions. But since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil, and gas.
