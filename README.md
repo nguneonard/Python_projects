@@ -29,6 +29,10 @@ The detail notebook is found here: <a href="https://github.com/nguneonard/Python
 
 Welcome to the Premium Project: Predicting Credit Card Approvals! Build a machine learning model to predict credit card application approval. Commercial banks receive numerous applications that often get rejected due to various reasons, making manual analysis time-consuming and error-prone. In this project, leverage machine learning techniques to automate the process and create an accurate credit card approval predictor. The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/Predicting%20Credit%20Card%20Approvals">Predicting Credit Card Approvals</a>
 
+7. [Climate Change and Impacts in Africa](#climate_change)
+
+Welcome to the "Climate Change and Impacts in Africa" project! In this project, you'll have the opportunity to make a significant contribution to understanding and addressing the critical issue of climate change in the African continent. As a member of a non-governmental organization (NGO), your task is to report on the state of climate change in Africa at the upcoming African Union Summit. You will achieve this by cleaning, combining, and analyzing the IEA-EDGAR CO2 dataset to create a comprehensive report. Additionally, you'll provide insights into the impact of climate change on specific African regions using four countries as case studies.
+The detail notebook is found here: <a href="https://github.com/nguneonard/Python_projects/tree/main/Climate%20Change%20and%20Impacts%20in%20Africa">Climate Change and Impacts in Africa</a>
 
 
 
