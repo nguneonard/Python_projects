@@ -70,7 +70,7 @@ To begin, make a copy of this workspace as instructed. Then, write your code in 
 5. Contributing
 We encourage collaboration and contributions from the community. If you have improvements or suggestions for this project, please feel free to share your insights.
 
-[Kubin Ngu Neonard]
+[Kubin-Ngu-Neonard]
 
 6. License
    
